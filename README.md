@@ -1,39 +1,60 @@
-# Hello! 👋 I'm Daniel
+# 👋 Hello! I'm Daniel
 
-I'm a passionate aspiring novelist with a love for fantasy, an experienced music producer, and a curious physics enthusiast. I’m on a journey to build immersive, complex worlds for my stories, with the help of data science and simulation techniques. Currently, I’m studying data science and Python, and I’m working to expand my skills in data handling and simulation, which I believe are key to enhancing the depth and realism of my fictional worlds.
+I'm a fantasy novelist, sound designer, and data science student with a deep interest in world simulation, artificial intelligence, and digital audio processing. I combine **storytelling, coding, and design** to craft immersive fictional universes, both narratively and sonically.
 
 ## 🌌 My Vision: Crafting Worlds Beyond Imagination
 
-My goal is to develop simulations that add a layer of complexity to my fictional worlds, allowing them to grow and evolve in ways that are both surprising and consistent. I’m particularly interested in exploring how societies, lineages, and cultures could develop procedurally, so that my stories can unfold with a sense of organic depth. 
+I believe that great stories are ecosystems—alive, evolving, and interconnected. My goal is to build **worlds that simulate themselves**, using procedural systems for cultures, mythologies, lineages, and economies. I approach fiction as a scientific experiment wrapped in emotion, intuition, and symbolic resonance.
 
-## 💼 Skills and Interests
+## 💻 Current Project: VST Plugin Development in C++ (JUCE)
 
-- **Fantasy Worldbuilding**: I’m developing characters, lineages, and magic systems that form the backbone of my stories. Each step brings me closer to creating a world that feels real and immersive.
-- **Music Production**: With years of experience, I enjoy creating soundscapes and experimenting with genres to complement my narratives and enrich the experience.
-- **Physics Enthusiast**: I incorporate physics-inspired logic to bring a touch of realism to my fantasy worlds.
-- **Data Science in Progress (Platzi)**: I’m currently building my foundation in Python and data analysis, learning the basics of modeling and visualization to support my worldbuilding projects.
+I'm currently working on my first **audio plugin (VST)** using the **JUCE framework in C++**.  
+This project merges my background in music production with my growing expertise in C++ and audio DSP (Digital Signal Processing).  
+The goal is to create a unique tool that reflects my creative philosophy—offering sound design that's emotional, experimental, and technically solid.
 
-## 📚 Current and Upcoming Projects
+## 🎵 Creative-Technological Profile
 
-- **World Simulation in Python**: 
-  - I’m working on creating a basic simulation of systems within my worlds, focusing on family lineages, economic dynamics, and social events.
-  - Goal: to build foundational models that can grow and adapt, bringing complex narratives to life over time.
+| Area                | Description |
+|---------------------|-------------|
+| 🎧 **Music Production** | Over 10 years producing indie, ambient and experimental music. Currently focused on DSP design and plugin development. |
+| 📚 **Fantasy Worldbuilding** | Creating characters, magic systems, and procedurally generated societies and mythologies. |
+| 🧠 **AI & Simulation** | Exploring Python, C++ and machine learning to simulate societies, lineages, and dynamic world histories. |
+| 🎨 **Design & UX** | Skilled in storytelling-driven interface design. You can check my work on [Behance](https://www.behance.net/danieldobles). |
 
-- **Procedural Name and Language Generator**: 
-  - I’m developing a tool to create names and words with cultural roots that fit each society in my worlds, to add authenticity and immersion to the worldbuilding process.
+## 🚧 Projects in Development
+
+- **🎛 VST Audio Plugin (JUCE, C++)**
+  - Digital audio effect aimed at enhancing creative workflows for producers and sound designers.
+  - Focus on spectral manipulation, intuitive UI, and a vibe-based coding approach.
+  
+- **🌐 Procedural World Simulation (Python)**
+  - Simulates genealogies, cultural shifts, and evolving societies.
+  - Goal: to embed living systems inside fictional narratives.
+
+- **🔤 Procedural Language Generator**
+  - Tool for inventing languages and name systems that feel organically tied to each culture.
+
+## 📈 Learning & Growth
+
+Currently studying:
+- **Data Science with Python (Platzi)**
+- **C++ for Audio Programming**
+- **AI applications for creative writing and simulation**
 
 ## 🎯 Future Goals
 
-1. Deepen my understanding of Python and data science to enhance my simulation skills.
-2. Explore artificial intelligence techniques to add complexity to my world simulations.
-3. Share tools and insights on GitHub that might be helpful to other writers and creators interested in worldbuilding.
+- Launch my first commercial audio plugin.
+- Publish worldbuilding tools for other writers and creators.
+- Develop AI systems that assist in story development, lore generation, and cultural simulation.
 
-## 🌐 Connect with Me on Social Media
+## 🌐 Let’s Connect
 
-- **Facebook**: [Daniel Dobles](https://www.facebook.com/daniel.dobles.33)
-- **TikTok**: [@daniel_dobles](https://www.tiktok.com/@daniel_dobles)
+- **GitHub**: You're here :)
+- **Behance**: [Daniel Dobles](https://www.behance.net/danieldobles)
 - **X (Twitter)**: [@DanielDobl3s](https://twitter.com/DanielDobl3s)
+- **TikTok**: [@daniel_dobles](https://www.tiktok.com/@daniel_dobles)
+- **Facebook**: [Daniel Dobles](https://www.facebook.com/daniel.dobles.33)
 
 ---
 
-Thank you for checking out my profile! Feel free to connect if you're interested in fantasy writing, world simulation, or sharing ideas about storytelling. 🚀
+Thank you for stopping by. If you're passionate about the crossroads of art, technology, and storytelling, I'm always open to exchanging ideas, collaborating, or just vibing creatively. 🚀
