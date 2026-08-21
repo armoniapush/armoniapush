@@ -75,8 +75,8 @@ Soy **Design Engineer & AI Video Specialist** con más de 12 años de trayectori
 ### **📊 Estadísticas de GitHub**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=armoniapush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armoniapush&theme=tokyonight&hide_border=true" alt="Daniel's GitHub Streak" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=armoniapush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=armoniapush&theme=tokyonight&hide_border=true" alt="Daniel's GitHub Streak" height="180px" />
 </p>
 
 ---
