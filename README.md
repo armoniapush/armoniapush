@@ -20,42 +20,13 @@ Soy **Design Engineer & AI Video Specialist** con más de 12 años de trayectori
 
 ### **🛠️ Mi Arsenal Tecnológico (Core Toolchain)**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎬 Video Programático & Automatización</h4>
-      <img src="https://img.shields.io/badge/Remotion-E5C158?style=flat-square&logo=react&logoColor=black" alt="Remotion" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/FFmpeg-007800?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/MoviePy-141414?style=flat-square" alt="MoviePy" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 IA Generativa & Orquestación Agéntica</h4>
-      <img src="https://img.shields.io/badge/ComfyUI-49C0B7?style=flat-square" alt="ComfyUI" />
-      <img src="https://img.shields.io/badge/Stable_Diffusion-141414?style=flat-square" alt="Stable Diffusion" />
-      <img src="https://img.shields.io/badge/Google_Flow-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Flow" />
-      <img src="https://img.shields.io/badge/CrewAI-E5C158?style=flat-square" alt="CrewAI" />
-      <img src="https://img.shields.io/badge/Antigravity-141414?style=flat-square" alt="Antigravity" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Diseño, Sistemas Visuales & UI/UX</h4>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Design_Tokens-141414?style=flat-square" alt="Design Tokens" />
-      <img src="https://img.shields.io/badge/Brand_Design-49C0B7?style=flat-square" alt="Brand Design" />
-      <img src="https://img.shields.io/badge/Photoshop_(ACA)-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔊 Ingeniería de Audio & DSP</h4>
-      <img src="https://img.shields.io/badge/Rust_(VST3)-DE7F3E?style=flat-square&logo=rust&logoColor=white" alt="Rust VST3" />
-      <img src="https://img.shields.io/badge/FL_Studio_21-141414?style=flat-square" alt="FL Studio" />
-      <img src="https://img.shields.io/badge/Audio_DSP-E5C158?style=flat-square" alt="Audio DSP" />
-      <img src="https://img.shields.io/badge/Foley_Sync-49C0B7?style=flat-square" alt="Foley Sync" />
-    </td>
-  </tr>
-</table>
+| 🎬 Video Programático & Automatización | 🧠 IA Generativa & Orquestación Agéntica |
+| :--- | :--- |
+| ![Remotion](https://img.shields.io/badge/Remotion-E5C158?style=flat-square&logo=react&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007800?style=flat-square&logo=ffmpeg&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MoviePy](https://img.shields.io/badge/MoviePy-141414?style=flat-square) | ![ComfyUI](https://img.shields.io/badge/ComfyUI-49C0B7?style=flat-square) ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-141414?style=flat-square) ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=flat-square&logo=google&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-E5C158?style=flat-square) ![Antigravity](https://img.shields.io/badge/Antigravity-141414?style=flat-square) |
+
+| 🎨 Diseño, Sistemas Visuales & UI/UX | 🔊 Ingeniería de Audio & DSP |
+| :--- | :--- |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Design Tokens](https://img.shields.io/badge/Design_Tokens-141414?style=flat-square) ![Brand Design](https://img.shields.io/badge/Brand_Design-49C0B7?style=flat-square) ![Photoshop](https://img.shields.io/badge/Photoshop_(ACA)-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust_(VST3)-DE7F3E?style=flat-square&logo=rust&logoColor=white) ![FL Studio](https://img.shields.io/badge/FL_Studio_21-141414?style=flat-square) ![Audio DSP](https://img.shields.io/badge/Audio_DSP-E5C158?style=flat-square) ![Foley Sync](https://img.shields.io/badge/Foley_Sync-49C0B7?style=flat-square) |
 
 ---
 
@@ -75,8 +46,12 @@ Soy **Design Engineer & AI Video Specialist** con más de 12 años de trayectori
 ### **📊 Estadísticas de GitHub**
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=armoniapush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" height="180px" />
-  <img src="https://streak-stats.demolab.com/?user=armoniapush&theme=tokyonight&hide_border=true" alt="Daniel's GitHub Streak" height="180px" />
+  <a href="https://github.com/armoniapush">
+    <img src="https://github-stats-extended.vercel.app/api?username=armoniapush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Daniel's GitHub Stats" height="180px" />
+  </a>
+  <a href="https://github.com/armoniapush">
+    <img src="https://streak-stats.demolab.com?user=armoniapush&theme=tokyonight&hide_border=true&v=1" alt="Daniel's GitHub Streak" height="180px" />
+  </a>
 </p>
 
 ---
